@@ -1,0 +1,51 @@
+﻿OBJECTID,Numer,Pętla_początkowa,Pętla_końcowa,Typ linii,Podtyp linii,relacja,Shape__Length
+51,1,Salwator,Wzgórza Krzesławickie,tramwajowa,,1,13201.6360960198
+52,1,Wzgórza Krzesławickie,Salwator,tramwajowa,,2,13020.5816932101
+53,2,Cmentarz Rakowicki,Salwator,tramwajowa,,1,4886.16824735415
+54,2,Salwator,Cmentarz Rakowicki,tramwajowa,,2,4877.01793046622
+55,3,Nowy Bieżanów P+R,Krowodrza Górka P+R,tramwajowa,,1,12659.2262897049
+56,3,Krowodrza Górka P+R,Nowy Bieżanów P+R,tramwajowa,,2,12664.4838247281
+57,4,Bronowice Małe,Wzgórza Krzesławickie,tramwajowa,,1,17364.6686604707
+58,4,Wzgórza Krzesławickie,Bronowice Małe,tramwajowa,,2,17349.2531482457
+59,5,Krowodrza Górka P+R,Wzgórza Krzesławickie,tramwajowa,,1,13109.0525846084
+60,5,Wzgórza Krzesławickie,Krowodrza Górka P+R,tramwajowa,,2,13107.7132473627
+61,6,Mały Płaszów P+R,Cichy Kącik,tramwajowa,,1,10226.854159379
+62,6,Cichy Kącik,Mały Płaszów P+R,tramwajowa,,2,10144.4718584027
+63,8,Borek Fałęcki,Bronowice Małe,tramwajowa,,1,11407.6543501484
+64,8,Bronowice Małe,Borek Fałęcki,tramwajowa,,2,11409.1887219391
+65,9,Nowy Bieżanów P+R,Mistrzejowice,tramwajowa,,1,18805.8627850353
+66,9,Mistrzejowice,Nowy Bieżanów P+R,tramwajowa,,2,18844.6680114681
+67,10,Kurdwanów P+R,Pleszów,tramwajowa,,1,20342.7328365513
+68,10,Pleszów,Kurdwanów P+R,tramwajowa,,2,20530.1874993574
+69,11,Czerwone Maki P+R,Mały Płaszów P+R,tramwajowa,,1,13246.1017484201
+70,11,Mały Płaszów P+R,Czerwone Maki P+R,tramwajowa,,2,13545.7909785924
+71,13,Nowy Bieżanów P+R,Bronowice,tramwajowa,,1,13094.3201322467
+72,13,Bronowice,Nowy Bieżanów P+R,tramwajowa,,2,13176.1792049627
+73,14,Bronowice,Mistrzejowice,tramwajowa,,1,15131.6550402594
+74,14,Mistrzejowice,Bronowice,tramwajowa,,2,15086.1012844781
+75,16,Bardosa,Mistrzejowice,tramwajowa,,1,6882.04700487046
+76,16,Mistrzejowice,Bardosa,tramwajowa,,2,7619.43910309347
+77,17,Czerwone Maki P+R,Dworzec Towarowy,tramwajowa,,1,12303.2720404726
+78,17,Dworzec Towarowy,Czerwone Maki P+R,tramwajowa,,2,12251.5613260236
+79,18,Czerwone Maki P+R,Górka Narodowa P+R,tramwajowa,,1,16631.9108645128
+80,18,Górka Narodowa P+R,Czerwone Maki P+R,tramwajowa,,2,16317.4530334571
+81,19,Borek Fałęcki,Dworzec Towarowy,tramwajowa,,1,10288.3158472211
+82,19,Dworzec Towarowy,Borek Fałęcki,tramwajowa,,2,10315.7444425452
+83,20,Cichy Kącik,Mały Płaszów P+R,tramwajowa,,1,9725.47953385203
+84,20,Mały Płaszów P+R,Cichy Kącik,tramwajowa,,2,9817.34819282452
+85,21,Os. Piastów,Pleszów,tramwajowa,,1,11929.8234062565
+86,21,Pleszów,Os. Piastów,tramwajowa,,2,11869.8362498386
+87,22,Borek Fałęcki,Kopiec Wandy,tramwajowa,,1,18129.2064101886
+88,22,Kopiec Wandy,Borek Fałęcki,tramwajowa,,2,17635.9527696631
+89,24,Bronowice Małe,Kurdwanów P+R,tramwajowa,,1,14230.1991094351
+90,24,Kurdwanów P+R,Bronowice Małe,tramwajowa,,2,13937.2439160012
+91,44,Dworzec Towarowy,Kopiec Wandy,tramwajowa,,1,12892.9583716725
+92,44,Kopiec Wandy,Dworzec Towarowy,tramwajowa,,2,12199.420969147
+93,49,Nowy Bieżanów P+R,Tauron Arena Kraków Wieczysta,tramwajowa,,1,11935.0344798806
+94,49,Tauron Arena Kraków Wieczysta,Nowy Bieżanów P+R,tramwajowa,,2,12018.8301709505
+95,50,Górka Narodowa P+R,Borek Fałęcki,tramwajowa,,1,19899.9276148413
+96,50,Borek Fałęcki,Górka Narodowa P+R,tramwajowa,,2,20026.3288195833
+97,52,Czerwone Maki P+R,Os. Piastów,tramwajowa,,1,18002.527976388
+98,52,Os. Piastów,Czerwone Maki P+R,tramwajowa,,2,17925.8298819884
+99,50,Górka Narodowa P+R,Kurdwanów P+R,tramwajowa,,11,17332.348625287
+100,50,Kurdwanów P+R,Górka Narodowa P+R,tramwajowa,,21,16923.5502176667

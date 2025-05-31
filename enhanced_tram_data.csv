@@ -1,0 +1,122 @@
+hour_of_day,day_of_week,is_weekend,month,day_of_month,temperature,precipitation,weather_condition,humidity,wind_speed,line_number,vehicle_type,vehicle_number,brigade,route_segment,direction,stop_name,planned_travel_time_min,delay_minutes,delay_category,delay_ratio,is_delayed
+12,5,True,5,31,12.4,1.2,rain,75,3.2,10,tramwaj,HY721,10-05,Kurdwanów–Pleszów,Kurdwanów P+R,Kurdwanów P+R 03,25,23.0,major_delay,0.92,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,52,tramwaj,HG919,52-04,Czerwone Maki–Os.Piastów,Czerwone Maki P+R,Czerwone Maki P+R 01,30,19.0,major_delay,0.6333333333333333,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,22,tramwaj,RY882,22-07,Borek Fałęcki–Kopiec Wandy,Borek Fałęcki,Borek Fałęcki 01,40,18.0,major_delay,0.45,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,20,tramwaj,RY879,20-05,Mały Płaszów–Cichy Kącik,Mały Płaszów P+R,Mały Płaszów P+R 01,20,15.0,major_delay,0.75,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,18,tramwaj,HY722,18-07,Górka Narodowa–Czerwone Maki,Górka Narodowa P+R,Górka Narodowa P+R 01,35,15.0,major_delay,0.42857142857142855,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,76,tramwaj,RP641,76-03,Mały Płaszów–Cmentarz Rakowicki,Mały Płaszów P+R,Mały Płaszów P+R 01,20,13.0,major_delay,0.65,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,50,tramwaj,HY742,50-03,Borek Fałęcki–Górka Narodowa,Górka Narodowa P+R,Górka Narodowa P+R 01,45,11.0,major_delay,0.24444444444444444,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,8,tramwaj,RY885,8-06,Bronowice–Borek Fałęcki,Borek Fałęcki,Borek Fałęcki 01,35,11.0,major_delay,0.3142857142857143,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,78,tramwaj,HL424,78-01,Salwator–Krowodrza Górka,Krowodrza G. P+R,Krowodrza Górka P+R 03,30,10.0,significant_delay,0.3333333333333333,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,8,tramwaj,RY884,8-03,Bronowice–Borek Fałęcki,Bronowice Małe,Bronowice Małe 01,35,9.0,significant_delay,0.2571428571428571,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,11,tramwaj,RP610,11-02,Czerwone Maki–Mały Płaszów,Czerwone Maki P+R,Czerwone Maki P+R 01,30,7.0,significant_delay,0.23333333333333334,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,52,tramwaj,RG901,52-05,Czerwone Maki–Os.Piastów,Czerwone Maki P+R,Grota-Roweckiego 01,30,6.0,significant_delay,0.2,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,76,tramwaj,RP636,76-04,Mały Płaszów–Cmentarz Rakowicki,Mały Płaszów P+R,Podgórze SKA 01,20,6.0,significant_delay,0.3,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,22,tramwaj,HY874,22-02,Borek Fałęcki–Kopiec Wandy,Borek Fałęcki,Fabryczna 02,40,6.0,significant_delay,0.15,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,24,tramwaj,RY839,24-05,Bronowice–Kurdwanów,Bronowice Małe,Bronowice Małe 01,35,5.0,moderate_delay,0.14285714285714285,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,8,tramwaj,RY815,8-04,Bronowice–Borek Fałęcki,Bronowice Małe,Stary Kleparz 01,35,5.0,moderate_delay,0.14285714285714285,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,9,tramwaj,RY838,9-06,Rondo Hipokratesa–Nowy Bieżanów,Rondo Hipokratesa,Bieńczycka 02,40,5.0,moderate_delay,0.125,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,10,tramwaj,RY806,10-06,Kurdwanów–Pleszów,Kurdwanów P+R,Turowicza 01,25,4.0,moderate_delay,0.16,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,4,tramwaj,HG933,4-03,Bronowice–Nowa Huta,Bronowice Małe,Głowackiego 01,40,4.0,moderate_delay,0.1,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,11,tramwaj,RP645,11-05,Czerwone Maki–Mały Płaszów,Mały Płaszów P+R,Mały Płaszów P+R 01,30,4.0,moderate_delay,0.13333333333333333,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,10,tramwaj,HY854,10-03,Kurdwanów–Pleszów,Pleszów,Stella-Sawickiego 01,25,4.0,moderate_delay,0.16,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,1,tramwaj,RF302,1-04,Salwator–Jarzębiny,Salwator,Ogród Doświadczeń 02,45,4.0,moderate_delay,0.08888888888888889,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,24,tramwaj,RY816,24-06,Bronowice–Kurdwanów,Bronowice Małe,Teatr Słowackiego 03,35,4.0,moderate_delay,0.11428571428571428,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,50,tramwaj,HY726,50-13,Borek Fałęcki–Górka Narodowa,Kurdwanów P+R,Politechnika 04,45,3.0,moderate_delay,0.06666666666666667,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,18,tramwaj,RY877,18-04,Górka Narodowa–Czerwone Maki,Czerwone Maki P+R,Lipińskiego 01,35,3.0,moderate_delay,0.08571428571428572,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,4,tramwaj,HG925,4-07,Bronowice–Nowa Huta,Zaj. Nowa Huta,Rondo Czyżyńskie 01,40,3.0,moderate_delay,0.075,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,50,tramwaj,HY864,50-12,Borek Fałęcki–Górka Narodowa,Kurdwanów P+R,Dauna 01,45,3.0,moderate_delay,0.06666666666666667,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,1,tramwaj,HK459,1-03,Salwator–Jarzębiny,Salwator,Stary Kleparz 01,45,3.0,moderate_delay,0.06666666666666667,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,50,tramwaj,RY828,50-01,Borek Fałęcki–Górka Narodowa,Borek Fałęcki,Kuklińskiego 01,45,3.0,moderate_delay,0.06666666666666667,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,18,tramwaj,RY837,18-01,Górka Narodowa–Czerwone Maki,Górka Narodowa P+R,Białoprądnicka 02,35,3.0,moderate_delay,0.08571428571428572,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,20,tramwaj,HY843,20-01,Mały Płaszów–Cichy Kącik,Mały Płaszów P+R,Klimeckiego 01,20,3.0,moderate_delay,0.15,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,78,tramwaj,HL434,78-03,Salwator–Krowodrza Górka,Salwator,Komorowskiego 01,30,3.0,moderate_delay,0.1,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,10,tramwaj,RY834,10-07,Kurdwanów–Pleszów,Kurdwanów P+R,św. Wawrzyńca 01,25,3.0,moderate_delay,0.12,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,4,tramwaj,HG920,4-04,Bronowice–Nowa Huta,Bronowice Małe,Białucha 02,40,3.0,moderate_delay,0.075,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,52,tramwaj,HG930,52-01,Czerwone Maki–Os.Piastów,Os.Piastów,Kleeberga 01,30,3.0,moderate_delay,0.1,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,9,tramwaj,HY861,9-01,Rondo Hipokratesa–Nowy Bieżanów,Rondo Hipokratesa,Rondo Grzegórzeckie 03,40,3.0,moderate_delay,0.075,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,50,tramwaj,RY827,50-05,Borek Fałęcki–Górka Narodowa,Górka Narodowa P+R,Lipska 02,45,3.0,moderate_delay,0.06666666666666667,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,3,tramwaj,HY844,3-01,Nowy Bieżanów–Krowodrza,Nowy Bieżanów P+R,Podgórze SKA 01,35,3.0,moderate_delay,0.08571428571428572,True
+12,5,True,5,31,12.4,1.2,rain,75,3.2,14,tramwaj,HY841,14-01,Bronowice–Miśnieńska,Bronowice,Fabryczna 02,25,2.0,slight_delay,0.08,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,10,tramwaj,HY851,10-04,Kurdwanów–Pleszów,Pleszów,św. Wawrzyńca 02,25,2.0,slight_delay,0.08,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,8,tramwaj,RY833,8-01,Bronowice–Borek Fałęcki,Borek Fałęcki,Rondo Matecznego 01,35,2.0,slight_delay,0.05714285714285714,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,77,tramwaj,RP601,77-02,Nowy Bieżanów–Dworzec Towarowy,Nowy Bieżanów P+R,Starowiślna 04,25,2.0,slight_delay,0.08,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,50,tramwaj,HY712,50-10,Borek Fałęcki–Górka Narodowa,Górka Narodowa P+R,Rondo Mogilskie 05,45,2.0,slight_delay,0.044444444444444446,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,50,tramwaj,RY809,50-07,Borek Fałęcki–Górka Narodowa,Borek Fałęcki,Sanktuarium Bożego Miłosierdzia 02,45,2.0,slight_delay,0.044444444444444446,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,14,tramwaj,RY821,14-07,Bronowice–Miśnieńska,Bronowice,UKEN 01,25,2.0,slight_delay,0.08,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,3,tramwaj,HY853,3-02,Nowy Bieżanów–Krowodrza,Nowy Bieżanów P+R,Szpital Narutowicza 02,35,2.0,slight_delay,0.05714285714285714,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,18,tramwaj,RY876,18-02,Górka Narodowa–Czerwone Maki,Górka Narodowa P+R,Wawel 01,35,2.0,slight_delay,0.05714285714285714,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,18,tramwaj,HY728,18-06,Górka Narodowa–Czerwone Maki,Czerwone Maki P+R,Siewna Wiadukt 02,35,2.0,slight_delay,0.05714285714285714,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,5,tramwaj,RF315,5-05,Jarzębiny–Krowodrza,Krowodrza G. P+R,Bieńczycka 01,30,2.0,slight_delay,0.06666666666666667,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,11,tramwaj,RP619,11-04,Czerwone Maki–Mały Płaszów,Czerwone Maki P+R,Dworzec Płaszów Estakada 02,30,2.0,slight_delay,0.06666666666666667,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,72,tramwaj,RF301,72-05,Rondo Grunwaldzkie–Czerwone Maki,Rondo Grunwaldzkie,Słomiana 02,25,2.0,slight_delay,0.08,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,10,tramwaj,RY830,10-08,Kurdwanów–Pleszów,Kurdwanów P+R,Czyżyny 02,25,2.0,slight_delay,0.08,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,18,tramwaj,RY875,18-03,Górka Narodowa–Czerwone Maki,Górka Narodowa P+R,Grota-Roweckiego 02,35,2.0,slight_delay,0.05714285714285714,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,52,tramwaj,RG904,52-07,Czerwone Maki–Os.Piastów,Czerwone Maki P+R,AKF / PK 01,30,2.0,slight_delay,0.06666666666666667,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,72,tramwaj,RF303,72-02,Rondo Grunwaldzkie–Czerwone Maki,Czerwone Maki P+R,Czerwone Maki P+R 01,25,1.0,slight_delay,0.04,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,21,tramwaj,HL421,21-03,Os.Piastów–Pleszów,Os.Piastów,Rondo Kocmyrzowskie im. Ks. Gorzelanego 01,30,1.0,slight_delay,0.03333333333333333,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,5,tramwaj,RF305,5-01,Jarzębiny–Krowodrza,Jarzębiny,Darwina 01,30,1.0,slight_delay,0.03333333333333333,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,78,tramwaj,HL440,78-02,Salwator–Krowodrza Górka,Krowodrza G. P+R,Stary Kleparz 02,30,1.0,slight_delay,0.03333333333333333,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,24,tramwaj,HY873,24-01,Bronowice–Kurdwanów,Bronowice Małe,Bieżanowska 04,35,1.0,slight_delay,0.02857142857142857,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,24,tramwaj,RY835,24-03,Bronowice–Kurdwanów,Kurdwanów P+R,Miodowa 01,35,1.0,slight_delay,0.02857142857142857,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,22,tramwaj,HY860,22-06,Borek Fałęcki–Kopiec Wandy,Kopiec Wandy,Plac Wolnica 02,40,1.0,slight_delay,0.025,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,52,tramwaj,HG931,52-03,Czerwone Maki–Os.Piastów,Os.Piastów,Rondo Matecznego 02,30,1.0,slight_delay,0.03333333333333333,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,22,tramwaj,HY738,22-01,Borek Fałęcki–Kopiec Wandy,Borek Fałęcki,Kościuszkowców 0_,40,1.0,slight_delay,0.025,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,72,tramwaj,RF322,72-06,Rondo Grunwaldzkie–Czerwone Maki,Rondo Grunwaldzkie,Chmieleniec 02,25,1.0,slight_delay,0.04,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,18,tramwaj,HY743,18-05,Górka Narodowa–Czerwone Maki,Czerwone Maki P+R,Poczta Główna 01,35,1.0,slight_delay,0.02857142857142857,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,20,tramwaj,RY826,20-04,Mały Płaszów–Cichy Kącik,Cichy Kącik,Teatr Słowackiego 01,20,1.0,slight_delay,0.05,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,3,tramwaj,HY872,3-04,Nowy Bieżanów–Krowodrza,Krowodrza G. P+R,Szpital Narutowicza 01,35,1.0,slight_delay,0.02857142857142857,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,14,tramwaj,RY889,14-06,Bronowice–Miśnieńska,Miśnieńska,UKEN 02,25,1.0,slight_delay,0.04,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,3,tramwaj,HY855,3-05,Nowy Bieżanów–Krowodrza,Krowodrza G. P+R,Podgórze SKA 02,35,1.0,slight_delay,0.02857142857142857,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,5,tramwaj,RF306,5-04,Jarzębiny–Krowodrza,Krowodrza G. P+R,Dworzec Towarowy 01,30,1.0,slight_delay,0.03333333333333333,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,50,tramwaj,HY740,50-09,Borek Fałęcki–Górka Narodowa,Górka Narodowa P+R,Górka Narodowa P+R 01,45,1.0,slight_delay,0.022222222222222223,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,20,tramwaj,RY811,20-02,Mały Płaszów–Cichy Kącik,Mały Płaszów P+R,Muzeum Narodowe 02,20,1.0,slight_delay,0.05,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,78,tramwaj,HL412,78-04,Salwator–Krowodrza Górka,Salwator,Bratysławska 02,30,1.0,slight_delay,0.03333333333333333,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,9,tramwaj,RY813,9-04,Rondo Hipokratesa–Nowy Bieżanów,Nowy Bieżanów P+R,Zabłocie 01,40,1.0,slight_delay,0.025,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,24,tramwaj,HY845,24-02,Bronowice–Kurdwanów,Kurdwanów P+R,Witosa 01,35,1.0,slight_delay,0.02857142857142857,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,24,tramwaj,RY801,24-04,Bronowice–Kurdwanów,Kurdwanów P+R,Bronowice 02,35,1.0,slight_delay,0.02857142857142857,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,9,tramwaj,HY737,9-03,Rondo Hipokratesa–Nowy Bieżanów,Nowy Bieżanów P+R,Ćwiklińskiej 01,40,1.0,slight_delay,0.025,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,4,tramwaj,RG905,4-01,Bronowice–Nowa Huta,Zaj. Nowa Huta,Teatr Słowackiego 02,40,1.0,slight_delay,0.025,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,14,tramwaj,HY713,14-04,Bronowice–Miśnieńska,Miśnieńska,Dunikowskiego 01,25,1.0,slight_delay,0.04,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,5,tramwaj,RF327,5-02,Jarzębiny–Krowodrza,Jarzębiny,Białucha 01,30,1.0,slight_delay,0.03333333333333333,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,50,tramwaj,HY866,50-11,Borek Fałęcki–Górka Narodowa,Górka Narodowa P+R,Piaski Nowe 02,45,1.0,slight_delay,0.022222222222222223,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,77,tramwaj,RP637,77-05,Nowy Bieżanów–Dworzec Towarowy,Dworzec Towarowy,Bieżanowska 02,25,1.0,slight_delay,0.04,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,11,tramwaj,HL432,11-01,Czerwone Maki–Mały Płaszów,Mały Płaszów P+R,Kurdwanów P+R 03,30,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,77,tramwaj,HL429,77-01,Nowy Bieżanów–Dworzec Towarowy,Nowy Bieżanów P+R,Prokocim Szpital 01,25,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,50,tramwaj,HY847,50-02,Borek Fałęcki–Górka Narodowa,Borek Fałęcki,Krowodrza Górka P+R 02,45,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,8,tramwaj,RY881,8-05,Bronowice–Borek Fałęcki,Bronowice Małe,Rondo Matecznego 02,35,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,77,tramwaj,RP602,77-04,Nowy Bieżanów–Dworzec Towarowy,Dworzec Towarowy,Rondo Grzegórzeckie 03,25,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,1,tramwaj,RF331,1-06,Salwator–Jarzębiny,Jarzębiny,Rondo Czyżyńskie 03,45,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,50,tramwaj,HY720,50-08,Borek Fałęcki–Górka Narodowa,Kurdwanów P+R,Górka Narodowa P+R 01,45,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,14,tramwaj,HY734,14-05,Bronowice–Miśnieńska,Miśnieńska,Fabryczna 01,25,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,22,tramwaj,RY824,22-05,Borek Fałęcki–Kopiec Wandy,Kopiec Wandy,Rondo 308. Dywizjonu 01,40,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,76,tramwaj,RP647,76-05,Mały Płaszów–Cmentarz Rakowicki,Mały Płaszów P+R,Uniwersytet Ekonomiczny 02,20,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,21,tramwaj,HL420,21-04,Os.Piastów–Pleszów,Pleszów,Plac Centralny im. R.Reagana 03,30,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,9,tramwaj,HY718,9-02,Rondo Hipokratesa–Nowy Bieżanów,Rondo Hipokratesa,Nowy Prokocim 02,40,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,4,tramwaj,HG927,4-05,Bronowice–Nowa Huta,Bronowice Małe,Kombinat 02,40,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,1,tramwaj,HK457,1-01,Salwator–Jarzębiny,Jarzębiny,Starowiślna 03,45,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,8,tramwaj,RY831,8-02,Bronowice–Borek Fałęcki,Borek Fałęcki,Stefana Batorego 0_,35,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,50,tramwaj,RY836,50-06,Borek Fałęcki–Górka Narodowa,Górka Narodowa P+R,Kościuszkowców 0_,45,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,10,tramwaj,HY850,10-01,Kurdwanów–Pleszów,Kurdwanów P+R,Pleszów 01,25,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,52,tramwaj,RZ234,52-06,Czerwone Maki–Os.Piastów,Czerwone Maki P+R,Korona 03,30,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,52,tramwaj,HG916,52-02,Czerwone Maki–Os.Piastów,Os.Piastów,TAURON Arena Kraków Wieczysta 01,30,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,10,tramwaj,HY869,10-02,Kurdwanów–Pleszów,Pleszów,Pleszów 01,25,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,9,tramwaj,HY741,9-05,Rondo Hipokratesa–Nowy Bieżanów,Nowy Bieżanów P+R,Rondo Kocmyrzowskie im. Ks. Gorzelanego 02,40,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,72,tramwaj,RF304,72-04,Rondo Grunwaldzkie–Czerwone Maki,Czerwone Maki P+R,Rondo Grunwaldzkie 01,25,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,1,tramwaj,RF314,1-02,Salwator–Jarzębiny,Jarzębiny,Salwator 01,45,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,1,tramwaj,RF316,1-05,Salwator–Jarzębiny,Salwator,Jarzębiny 02,45,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,21,tramwaj,HL401,21-01,Os.Piastów–Pleszów,Os.Piastów,Kopiec Wandy 02,30,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,21,tramwaj,HL402,21-01,Os.Piastów–Pleszów,Kopiec Wandy,Os. Piastów 01,30,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,77,tramwaj,HL439,77-06,Nowy Bieżanów–Dworzec Towarowy,Dworzec Towarowy,Nowy Bieżanów P+R 01,25,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,76,tramwaj,RP632,76-01,Mały Płaszów–Cmentarz Rakowicki,Mały Płaszów P+R,Cmentarz Rakowicki 01,20,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,77,tramwaj,RP640,77-03,Nowy Bieżanów–Dworzec Towarowy,Nowy Bieżanów P+R,Dworzec Towarowy 02,25,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,20,tramwaj,HY716,20-03,Mały Płaszów–Cichy Kącik,Mały Płaszów P+R,Cichy Kącik 01,20,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,14,tramwaj,HY739,14-03,Bronowice–Miśnieńska,Bronowice,Miśnieńska 02,25,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,3,tramwaj,HY840,3-03,Nowy Bieżanów–Krowodrza,Nowy Bieżanów P+R,Krowodrza Górka P+R 03,35,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,3,tramwaj,HY868,3-06,Nowy Bieżanów–Krowodrza,Krowodrza G. P+R,Nowy Bieżanów P+R 01,35,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,52,tramwaj,RG909,52-08,Czerwone Maki–Os.Piastów,Czerwone Maki P+R,Os. Piastów 01,30,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,4,tramwaj,RG913,4-02,Bronowice–Nowa Huta,Zaj. Nowa Huta,Bronowice Małe 01,40,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,22,tramwaj,HY863,22-03,Borek Fałęcki–Kopiec Wandy,Borek Fałęcki,Plac Centralny im. R.Reagana 01,40,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,14,tramwaj,HY715,14-02,Bronowice–Miśnieńska,Bronowice,Rondo Hipokratesa 02,25,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,72,tramwaj,RF325,72-03,Rondo Grunwaldzkie–Czerwone Maki,Czerwone Maki P+R,Lipińskiego 01,25,0.0,on_time,0.0,False
+12,5,True,5,31,12.4,1.2,rain,75,3.2,11,tramwaj,RP644,11-03,Czerwone Maki–Mały Płaszów,Czerwone Maki P+R,Łagiewniki 05,30,0.0,on_time,0.0,False

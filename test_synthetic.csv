@@ -1,0 +1,11 @@
+hour_of_day,day_of_week,is_weekend,month,day_of_month,temperature,precipitation,weather_condition,humidity,wind_speed,line_number,vehicle_type,vehicle_number,brigade,route_segment,direction,stop_name,planned_travel_time_min,delay_minutes,delay_category,delay_ratio,is_delayed
+11,3,False,11,8,10.3,0.1,rain,53,2.1,3,tramwaj,RY125,36-04,Nowy Bieżanów–Krowodrza,Rondo Hipokratesa,Rondo Grunwaldzkie 01,45,0.3,on_time,0.007139,False
+5,3,False,10,22,7.4,0.0,fog,44,1.2,50,tramwaj,HG242,14-09,Borek Fałęcki–Kopiec Wandy,Rondo Hipokratesa,Bronowice Małe 01,35,1.5,slight_delay,0.042884,False
+7,4,False,3,7,11.4,0.1,sunny,89,0.3,11,tramwaj,RY704,55-01,Borek Fałęcki–Kopiec Wandy,Kurdwanów P+R,Mały Płaszów P+R 01,25,1.9,slight_delay,0.075252,False
+10,5,True,10,4,23.3,1.3,rain,91,0.8,52,tramwaj,HY195,28-04,Czerwone Maki–Os.Piastów,Salwator,Nowy Bieżanów P+R 01,25,7.5,significant_delay,0.299588,True
+17,0,False,1,25,13.5,1.0,cloudy,34,5.2,14,tramwaj,HY674,26-09,Rondo Grunwaldzkie–Czerwone Maki,Nowy Bieżanów P+R,Krowodrza Górka P+R 03,35,1.3,slight_delay,0.035795,False
+9,2,False,12,8,14.7,0.4,fog,32,2.9,24,tramwaj,RG325,58-10,Salwator–Krowodrza Górka,Pleszów,Krowodrza Górka P+R 03,25,0.0,on_time,0.0,False
+11,0,False,4,4,18.7,0.4,cloudy,65,5.7,10,tramwaj,HL928,01-03,Os.Piastów–Pleszów,Borek Fałęcki,Salwator 01,35,1.7,slight_delay,0.048131,False
+17,5,True,9,21,28.5,0.1,cloudy,91,0.2,78,tramwaj,RG448,36-03,Jarzębiny–Krowodrza,Borek Fałęcki,Bronowice Małe 01,45,1.3,slight_delay,0.029764,False
+9,0,False,3,10,17.7,0.2,sunny,81,0.9,72,tramwaj,HG881,44-02,Rondo Hipokratesa–Nowy Bieżanów,Górka Narodowa P+R,Rondo Hipokratesa 02,45,2.9,slight_delay,0.065517,False
+9,0,False,8,17,29.3,0.2,sunny,31,1.5,9,tramwaj,RY489,13-06,Salwator–Krowodrza Górka,Górka Narodowa P+R,Bronowice Małe 01,30,0.6,on_time,0.020301,False

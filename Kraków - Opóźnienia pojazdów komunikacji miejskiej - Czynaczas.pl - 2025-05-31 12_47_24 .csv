@@ -1,0 +1,122 @@
+﻿Rodzaj pojazdu,Nr tab.,Brygada,Linia,Kierunek,Opóźnienie,Przystanek
+Tramwaj,HG925,4-07,4,Zaj. Nowa Huta,29,Zajezdnia Nowa Huta 01
+Tramwaj,RZ234,52-06,52,Czerwone Maki P+R,17,Czerwone Maki P+R 01
+Tramwaj,HY874,22-02,22,Borek Fałęcki,16,Borek Fałęcki 01
+Tramwaj,RP601,77-02,77,Nowy Bieżanów P+R,14,Ćwiklińskiej 01
+Tramwaj,HY734,14-05,14,Miśnieńska,14,Miśnieńska 02
+Tramwaj,RY876,18-02,18,Górka Narodowa P+R,13,Górka Narodowa P+R 01
+Tramwaj,RP647,76-05,76,Mały Płaszów P+R,11,Mały Płaszów P+R 01
+Tramwaj,RP637,77-05,77,Dworzec Towarowy,10,Dworzec Towarowy 02
+Tramwaj,HL402,21-01,21,Kopiec Wandy,10,Kopiec Wandy 02
+Tramwaj,RF301,72-05,72,Czerwone Maki P+R,9,Czerwone Maki P+R 01
+Tramwaj,RY831,8-02,8,Borek Fałęcki,9,Borek Fałęcki 01
+Tramwaj,RY827,50-05,50,Górka Narodowa P+R,9,Górka Narodowa P+R 01
+Tramwaj,HL434,78-03,78,Krowodrza G. P+R,8,Krowodrza Górka P+R 03
+Tramwaj,RY881,8-05,8,Bronowice Małe,7,Bronowice Małe 01
+Tramwaj,RP619,11-04,11,Czerwone Maki P+R,5,Czerwone Maki P+R 01
+Tramwaj,RF303,72-02,72,Rondo Grunwaldzkie,5,Rondo Grunwaldzkie 01
+Tramwaj,RP641,76-03,76,Cmentarz Rakowicki,5,Uniwersytet Ekonomiczny 01
+Tramwaj,RP645,11-05,11,Czerwone Maki P+R,5,Turowicza 02
+Tramwaj,HY840,3-03,3,Nowy Bieżanów P+R,4,Plac Bohaterów Getta 01
+Tramwaj,HY728,18-06,18,Czerwone Maki P+R,4,Łagiewniki 05
+Tramwaj,RF305,5-01,5,Krowodrza G. P+R,4,Rondo Mogilskie 05
+Tramwaj,RG901,52-05,52,Os.Piastów,4,Łagiewniki 04
+Tramwaj,HG931,52-03,52,Os.Piastów,4,Dunikowskiego 01
+Tramwaj,RY875,18-03,18,Górka Narodowa P+R,4,Pachońskiego P+R 01
+Tramwaj,RF306,5-04,5,Jarzębiny,4,Politechnika 04
+Tramwaj,RY809,50-07,50,Górka Narodowa P+R,4,Kabel 02
+Tramwaj,HY873,24-01,24,Bronowice Małe,3,Bronowice Małe 01
+Tramwaj,RG909,52-08,52,Czerwone Maki P+R,3,Starowiślna 02
+Tramwaj,HG927,4-05,4,Bronowice Małe,3,UKEN 01
+Tramwaj,RP610,11-02,11,Mały Płaszów P+R,3,Rzebika 01
+Tramwaj,RF316,1-05,1,Salwator,3,Teatr Słowackiego 03
+Tramwaj,HY843,20-01,20,Cichy Kącik,3,Rondo Mogilskie 04
+Tramwaj,RF331,1-06,1,Salwator,3,Gałczyńskiego 01
+Tramwaj,HG919,52-04,52,Os.Piastów,3,Rondo Mogilskie 02
+Tramwaj,HY850,10-01,10,Kurdwanów P+R,3,Miodowa 01
+Tramwaj,RY838,9-06,9,Nowy Bieżanów P+R,3,Rondo Grzegórzeckie 04
+Tramwaj,RY806,10-06,10,Pleszów,3,Plac Bohaterów Getta 02
+Tramwaj,RF314,1-02,1,Jarzębiny,2,Rondo 308. Dywizjonu 01
+Tramwaj,HY868,3-06,3,Krowodrza G. P+R,2,Dworzec Towarowy 01
+Tramwaj,HY715,14-02,14,Bronowice,2,Urzędnicza 01
+Tramwaj,RY836,50-06,50,Górka Narodowa P+R,2,Szpital Narutowicza 01
+Tramwaj,HY863,22-03,22,Borek Fałęcki,2,Łagiewniki ZUS 01
+Tramwaj,RP632,76-01,76,Mały Płaszów P+R,2,Podgórze SKA 01
+Tramwaj,HY739,14-03,14,Bronowice,2,Dąbie 02
+Tramwaj,RY830,10-08,10,Kurdwanów P+R,2,Turowicza 01
+Tramwaj,RY877,18-04,18,Górka Narodowa P+R,2,Stradom 04
+Tramwaj,RY884,8-03,8,Borek Fałęcki,2,Smolki 01
+Tramwaj,RY885,8-06,8,Bronowice Małe,2,Teatr Bagatela 02
+Tramwaj,RG913,4-02,4,Zaj. Nowa Huta,2,Rondo Czyżyńskie 01
+Tramwaj,HL424,78-01,78,Salwator,2,Komorowskiego 01
+Tramwaj,HY864,50-12,50,Górka Narodowa P+R,2,Rondo Grzegórzeckie 03
+Tramwaj,RF325,72-03,72,Rondo Grunwaldzkie,2,Kobierzyńska 02
+Tramwaj,RP644,11-03,11,Mały Płaszów P+R,2,Sanktuarium Bożego Miłosierdzia 01
+Tramwaj,HY721,10-05,10,Pleszów,2,Stella-Sawickiego 01
+Tramwaj,HY847,50-02,50,Borek Fałęcki,2,Sanktuarium Bożego Miłosierdzia 02
+Tramwaj,HY740,50-09,50,Kurdwanów P+R,2,Politechnika 04
+Tramwaj,RG904,52-07,52,Czerwone Maki P+R,2,Ruczaj 01
+Tramwaj,HY720,50-08,50,Kurdwanów P+R,2,Dauna 01
+Tramwaj,RY801,24-04,24,Kurdwanów P+R,2,Nowosądecka 01
+Tramwaj,HY845,24-02,24,Bronowice Małe,2,Teatr Słowackiego 03
+Tramwaj,HY716,20-03,20,Mały Płaszów P+R,1,Klimeckiego 01
+Tramwaj,RY837,18-01,18,Czerwone Maki P+R,1,Bociana 02
+Tramwaj,HL412,78-04,78,Krowodrza G. P+R,1,Teatr Bagatela 01
+Tramwaj,RP602,77-04,77,Nowy Bieżanów P+R,1,Hala Targowa 02
+Tramwaj,RY824,22-05,22,Borek Fałęcki,1,Zalew Nowohucki 01
+Tramwaj,RY835,24-03,24,Bronowice Małe,1,Dauna 02
+Tramwaj,HL439,77-06,77,Dworzec Towarowy,1,Starowiślna 03
+Tramwaj,HY872,3-04,3,Nowy Bieżanów P+R,1,Bratysławska 02
+Tramwaj,RP636,76-04,76,Cmentarz Rakowicki,1,Limanowskiego 02
+Tramwaj,HY737,9-03,9,Rondo Hipokratesa,1,Zabłocie 02
+Tramwaj,HK459,1-03,1,Jarzębiny,1,Poczta Główna 01
+Tramwaj,HL429,77-01,77,Dworzec Towarowy,1,Prokocim 02
+Tramwaj,HY713,14-04,14,Bronowice,1,Rondo Piastowskie 02
+Tramwaj,RY816,24-06,24,Kurdwanów P+R,1,Bronowice SKA 02
+Tramwaj,RY889,14-06,14,Miśnieńska,1,DH Wanda 01
+Tramwaj,HY743,18-05,18,Górka Narodowa P+R,1,Ruczaj 02
+Tramwaj,RY826,20-04,20,Mały Płaszów P+R,1,Park Jordana 02
+Tramwaj,RY839,24-05,24,Kurdwanów P+R,1,Starowiślna 02
+Tramwaj,HL420,21-04,21,Os.Piastów,1,Plac Centralny im. R.Reagana 02
+Tramwaj,HY722,18-07,18,Czerwone Maki P+R,1,Poczta Główna 01
+Tramwaj,HG933,4-03,4,Zaj. Nowa Huta,1,Stary Kleparz 02
+Tramwaj,RY833,8-01,8,Bronowice Małe,1,Łagiewniki 02
+Tramwaj,HG935,4-06,4,Bronowice Małe,1,Cystersów 02
+Tramwaj,HY869,10-02,10,Kurdwanów P+R,1,Rondo Czyżyńskie 02
+Tramwaj,HY742,50-03,50,Borek Fałęcki,1,Gromadzka 01
+Tramwaj,RF322,72-06,72,Czerwone Maki P+R,0,Czerwone Maki P+R 01
+Tramwaj,HL432,11-01,11,Czerwone Maki P+R,0,Lipska 03
+Tramwaj,HY861,9-01,9,Nowy Bieżanów P+R,0,Rondo Kocmyrzowskie im. Ks. Gorzelanego 02
+Tramwaj,RP640,77-03,77,Nowy Bieżanów P+R,0,Prokocim 01
+Tramwaj,HY851,10-04,10,Pleszów,0,Koksochemia (nż) 01
+Tramwaj,RY813,9-04,9,Rondo Hipokratesa,0,Nowy Bieżanów P+R 01
+Tramwaj,HY841,14-01,14,Miśnieńska,0,Głowackiego 02
+Tramwaj,RF304,72-04,72,Rondo Grunwaldzkie,0,Czerwone Maki P+R 01
+Tramwaj,RY815,8-04,8,Borek Fałęcki,0,Plac Inwalidów 02
+Tramwaj,RY821,14-07,14,Miśnieńska,0,Teatr Variété 01
+Tramwaj,RY828,50-01,50,Górka Narodowa P+R,0,Borek Fałęcki 01
+Tramwaj,HY738,22-01,22,Kopiec Wandy,0,Korona 01
+Tramwaj,HY741,9-05,9,Nowy Bieżanów P+R,0,Teligi 01
+Tramwaj,RY882,22-07,22,Kopiec Wandy,0,Ogród Doświadczeń 01
+Tramwaj,HL440,78-02,78,Salwator,0,Krowodrza Górka P+R 02
+Tramwaj,HG930,52-01,52,Czerwone Maki P+R,0,Stella-Sawickiego 02
+Tramwaj,HY718,9-02,9,Rondo Hipokratesa,0,Rondo Kocmyrzowskie im. Ks. Gorzelanego 01
+Tramwaj,RF327,5-02,5,Krowodrza G. P+R,0,Rondo Kocmyrzowskie im. Ks. Gorzelanego 02
+Tramwaj,HY726,50-13,50,Górka Narodowa P+R,0,Witosa 02
+Tramwaj,RF302,1-04,1,Jarzębiny,0,Salwator 01
+Tramwaj,RF315,5-05,5,Jarzębiny,0,Krowodrza Górka P+R 03
+Tramwaj,HL401,21-01,21,Pleszów,0,Os. Piastów 01
+Tramwaj,HL421,21-03,21,Kopiec Wandy,0,Os. Piastów 01
+Tramwaj,HK457,1-01,1,Salwator,0,Jarzębiny 02
+Tramwaj,HY712,50-10,50,Kurdwanów P+R,0,Górka Narodowa P+R 01
+Tramwaj,RY811,20-02,20,Cichy Kącik,0,Mały Płaszów P+R 01
+Tramwaj,RY834,10-07,10,Pleszów,0,Kurdwanów P+R 03
+Tramwaj,HY853,3-02,3,Krowodrza G. P+R,0,Nowy Bieżanów P+R 01
+Tramwaj,HY854,10-03,10,Kurdwanów P+R,0,Pleszów 01
+Tramwaj,HY855,3-05,3,Nowy Bieżanów P+R,0,Krowodrza Górka P+R 03
+Tramwaj,RY879,20-05,20,Mały Płaszów P+R,0,Cichy Kącik 01
+Tramwaj,HG916,52-02,52,Czerwone Maki P+R,0,Os. Piastów 01
+Tramwaj,HG920,4-04,4,Zaj. Nowa Huta,0,Bronowice Małe 01
+Tramwaj,HY866,50-11,50,Górka Narodowa P+R,-1,Górka Narodowa P+R 01
+Tramwaj,HY844,3-01,3,Krowodrza G. P+R,-1,Podgórze SKA 02
+Tramwaj,HY860,22-06,22,Kopiec Wandy,-1,Kopiec Wandy 02
